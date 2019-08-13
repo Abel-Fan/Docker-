@@ -1,5 +1,5 @@
 # Docker概述
-## 1、什么时Docker
+## 1、什么是Docker
 Docker是基于Go语言实现的开源容器项目。Docker是一个为开发者和系统管理员提供的开发，部署和运行的容器应用程序。Linux使用容器开发应用程序的这种方式称为容器化。Docker项目已加入Linux基金会，并遵循Apache2.0 协议，全部开源代码再http://github.com/docker 项目仓库进行维护。
 ## 2、Docker的基本概念
 Docker中包括三个基本概念：容器(Container)、镜像(Image)、仓库(Repository)   
